@@ -1,0 +1,1 @@
+sentence-transformers  # optional, only for the semantic rerank mode (tested 6.2.0)

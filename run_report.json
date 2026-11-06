@@ -1,0 +1,109 @@
+{
+  "input_rows": 217868,
+  "missing_or_blank_caption": 0,
+  "invalid_or_nonHTTP_url": 0,
+  "rejected_union": 0,
+  "exact_duplicate_pairs_removed": 1,
+  "accepted_rows": 217867,
+  "row_policy": "Sequential reject union, then exact caption+URL duplicate removal. Stable original row IDs retained; HTTP links preserved and explicitly labeled, not silently rewritten. No URL/image requests.",
+  "source_sha256": "d23256511d8ca679e8dd34b2df94e8186a8acb93b0bb6163055a5e6adf5d617e",
+  "tfidf_shape": [
+    217867,
+    21195
+  ],
+  "nnz": 5933177,
+  "build_seconds": 7.665783808000015,
+  "queries": {
+    "kitchen cabinet": {
+      "ids": [
+        "IMG_204406",
+        "IMG_192277",
+        "IMG_173692",
+        "IMG_18985",
+        "IMG_131656"
+      ],
+      "scores": [
+        0.7239952731190462,
+        0.6079651980901243,
+        0.5939289720443404,
+        0.5840564264767862,
+        0.5725053999415056
+      ],
+      "seconds": 0.02117786899998464
+    },
+    "bathroom sink": {
+      "ids": [
+        "IMG_129383",
+        "IMG_108465",
+        "IMG_163186",
+        "IMG_177733",
+        "IMG_188237"
+      ],
+      "scores": [
+        0.6597736519081342,
+        0.6501143022292973,
+        0.6292468054479087,
+        0.6270793838522151,
+        0.6212866767545544
+      ],
+      "seconds": 0.018410439000035694
+    },
+    "motorcycle": {
+      "ids": [
+        "IMG_121474",
+        "IMG_202881",
+        "IMG_189887",
+        "IMG_208536",
+        "IMG_156762"
+      ],
+      "scores": [
+        0.7374218896398662,
+        0.6938827139293464,
+        0.6805927388356942,
+        0.680257410879575,
+        0.672864695023611
+      ],
+      "seconds": 0.015022638000118604
+    },
+    "street bicycle": {
+      "ids": [
+        "IMG_190033",
+        "IMG_157604",
+        "IMG_143902",
+        "IMG_146861",
+        "IMG_197109"
+      ],
+      "scores": [
+        0.6674191378819276,
+        0.6422864410070293,
+        0.6093655959171999,
+        0.5951507570773729,
+        0.545005488110128
+      ],
+      "seconds": 0.026792211000156385
+    },
+    "cat cabinet": {
+      "ids": [
+        "IMG_32303",
+        "IMG_131656",
+        "IMG_16487",
+        "IMG_209648",
+        "IMG_148955"
+      ],
+      "scores": [
+        0.5793100417915031,
+        0.5740940295785143,
+        0.5413694354664429,
+        0.5394245672453708,
+        0.5346065718606163
+      ],
+      "seconds": 0.021057361999737623
+    },
+    "xyzzqqqq": {
+      "ids": [],
+      "scores": [],
+      "seconds": 0.0004262320003363129
+    }
+  },
+  "evaluation": "Development sanity/timing only. No relevance judgments, held-out metric, accuracy or speed superiority claim. No external image URL checked."
+}

@@ -1,0 +1,322 @@
+{
+ "a dog running on the beach": [
+  {
+   "id": "IMG_165153",
+   "score": 0.7138,
+   "caption": "a dog running along the beach with a red ball in its mouth."
+  },
+  {
+   "id": "IMG_154533",
+   "score": 0.6439,
+   "caption": "two dogs on a sandy beach, with one dog in an active or running pose towards the left and another dog in motion towards the center, closer to a cow."
+  },
+  {
+   "id": "IMG_214460",
+   "score": 0.594,
+   "caption": "a black dog running on the beach, wearing a collar around its neck, which is located towards the upper-middle part of its body."
+  },
+  {
+   "id": "IMG_37974",
+   "score": 0.5708,
+   "caption": "a dog running on a beach with a frisbee in its mouth. The background features a sandy beach with the water's edge visible, and the sky appears to be illuminated, possibly indicatin"
+  },
+  {
+   "id": "IMG_106582",
+   "score": 0.5548,
+   "caption": "a sandy beach with a dog running in the foreground. There is a man standing and watching the dog, with trees and vegetation in the background. The dog appears to be running or jump"
+  },
+  {
+   "id": "IMG_217596",
+   "score": 0.5123,
+   "caption": "a dog energetically running on a sandy beach, with a frisbee lying on the sand to the left of the dog, possibly indicating a game of fetch."
+  }
+ ],
+ "a busy kitchen with people cooking": [
+  {
+   "id": "IMG_99344",
+   "score": 0.4198,
+   "caption": "a busy restaurant kitchen setting with eight people, including kitchen staff and customers or observers. The kitchen staff is actively preparing or cooking food at a cooking statio"
+  },
+  {
+   "id": "IMG_168698",
+   "score": 0.4182,
+   "caption": "a busy kitchen setting with a large, well-cooked pizza at the center, surrounded by a multifaceted oven holding various pizzas in different cooking stages. The kitchen also feature"
+  },
+  {
+   "id": "IMG_13912",
+   "score": 0.4168,
+   "caption": "a kitchen or cooking area where three people are actively engaged in food preparation and serving tasks. One person is handing over a ladle to another person, who is behind a count"
+  },
+  {
+   "id": "IMG_139438",
+   "score": 0.4154,
+   "caption": "a busy kitchen with scattered plates, an oven with knobs, newspapers at the top left and bottom right corners, cooking pans with eggs, and a carton in the middle."
+  },
+  {
+   "id": "IMG_4025",
+   "score": 0.3917,
+   "caption": "an older man preparing food on a stove in a kitchen or cooking area. The man is wearing a light-colored, checkered or striped shirt or jacket. There are various kitchen equipment a"
+  },
+  {
+   "id": "IMG_24377",
+   "score": 0.3761,
+   "caption": "a man and a woman in a kitchen. The man is cooking, interacting with a stove, while the woman observes the process. The kitchen is equipped with various cooking utensils and applia"
+  }
+ ],
+ "a man riding a bike down the street": [
+  {
+   "id": "IMG_168829",
+   "score": 0.5221,
+   "caption": "a man riding a mountain bike, with a backpack on his back and another backpack positioned mid-way up his back. The man is also wearing a helmet covering the top part of his head."
+  },
+  {
+   "id": "IMG_23270",
+   "score": 0.4816,
+   "caption": "a STOP sign with a \"ride bikes\" sticker placed towards the bottom center of it. The background behind the STOP sign consists of a clear sky with some overhead utility lines. The ST"
+  },
+  {
+   "id": "IMG_156138",
+   "score": 0.4759,
+   "caption": "two children on wooden balance bikes, wearing casual attire with jeans and sandals. The bikes have handles, wheels, and a bolt. The scene takes place on a street with a stop sign a"
+  },
+  {
+   "id": "IMG_213280",
+   "score": 0.4721,
+   "caption": "a bike with two distinct handles, one at the center and another on the right side. There is a large wheel on the right side towards the rear end of the bike. A mirror is also attac"
+  },
+  {
+   "id": "IMG_9398",
+   "score": 0.4475,
+   "caption": "a city street with multiple street signs, a white van parked on the left, and a pathway with a designated bike lane indicated by a cyclist symbol on a street sign. Two cyclists are"
+  },
+  {
+   "id": "IMG_38655",
+   "score": 0.4394,
+   "caption": "a man and a woman riding a cargo bike together on a street. There are two people visible in the image. The man is riding the bicycle and steering it, while the woman is sitting beh"
+  }
+ ],
+ "a bathroom with a modern sink": [
+  {
+   "id": "IMG_125835",
+   "score": 0.5434,
+   "caption": "a modern bathroom with a toilet towards the middle-right section, a sink with a faucet to its left, a mirror above the sink, and a shower area separated by a white curtain to the f"
+  },
+  {
+   "id": "IMG_78212",
+   "score": 0.539,
+   "caption": "a bathroom countertop with five sinks, each accompanied by a faucet. There are three mirrors above the sinks, reflecting parts of the sinks and faucets. Several soap dishes are pla"
+  },
+  {
+   "id": "IMG_172105",
+   "score": 0.5358,
+   "caption": "a bathroom with a modern toilet in the center-right, a sink with a faucet above it, a vent above the sink, a towel rack, a pipe below the sink, a trash can, and a basket closer to "
+  },
+  {
+   "id": "IMG_35712",
+   "score": 0.521,
+   "caption": "a modern bathroom with a wall-mounted sink, two faucets, and various personal care items such as toothpaste, cups, and toothbrushes. There are visible pipes around the sink area, a"
+  },
+  {
+   "id": "IMG_129383",
+   "score": 0.5182,
+   "caption": "a bathroom with a faucet above a sink on the left side and a toilet on the right side."
+  },
+  {
+   "id": "IMG_206055",
+   "score": 0.516,
+   "caption": "a modern bathroom setup with a sink and mirror on the left, a tray with toiletries in the center, two additional sinks on the right, tissue papers near the sinks, and an elegant va"
+  }
+ ],
+ "a group of people eating at a restaurant": [
+  {
+   "id": "IMG_10622",
+   "score": 0.4416,
+   "caption": "a group of people in a restaurant or dining area, with tables and chairs. There are three people wearing sweatshirts, four straws for drinking, and a few pairs of spectacles. The s"
+  },
+  {
+   "id": "IMG_2401",
+   "score": 0.3918,
+   "caption": "a group of people gathered at a restaurant or pub, engaged in conversation, eating pizza, and drinking various beverages. The ambiance is cozy and rustic, with warm lighting and wo"
+  },
+  {
+   "id": "IMG_85792",
+   "score": 0.3863,
+   "caption": "a woman eating a pizza with ham or prosciutto toppings, in a restaurant setting with warm lighting and other people in the background. The pizza is cut into several slices, and the"
+  },
+  {
+   "id": "IMG_82283",
+   "score": 0.3422,
+   "caption": "a busy urban scene with a bus stop, several cars, people, buildings, trees, and a restaurant sign. There are 6 people at the bus stop, and the main color of the bus is orange. The "
+  },
+  {
+   "id": "IMG_5015",
+   "score": 0.3349,
+   "caption": "a person with long hair wearing a headband, eating a large slice of pizza in an indoor setting, possibly a restaurant or cafe. The person is in the foreground, closer to the camera"
+  },
+  {
+   "id": "IMG_2968",
+   "score": 0.3297,
+   "caption": "a young child sitting at a table, eating a slice of pizza. The table has a few items, including a plate and some other objects. There are wooden walls and the presence of other din"
+  }
+ ],
+ "a cat sitting on a couch": [
+  {
+   "id": "IMG_3163",
+   "score": 0.6474,
+   "caption": "a photo of a room with a plaid couch or chair, a dog lying on the floor near the couch with its head partially under the furniture, and a cat sitting on the couch. There is also a "
+  },
+  {
+   "id": "IMG_74141",
+   "score": 0.6057,
+   "caption": "a person sitting on a couch, holding a baseball bat, with pillows on the couch and a poster on the wall. There are two vents above the couch and another person sitting on a chair i"
+  },
+  {
+   "id": "IMG_49764",
+   "score": 0.5865,
+   "caption": "a young individual sitting on a couch wearing a green and yellow jacket, red pants, and a necktie draped around their neck. A black cat is resting on the couch next to the person. "
+  },
+  {
+   "id": "IMG_177183",
+   "score": 0.5821,
+   "caption": "a striped couch with a blanket covering its left side, a cat lounging comfortably on the couch, and a remote control near the cat's front paws."
+  },
+  {
+   "id": "IMG_85608",
+   "score": 0.5541,
+   "caption": "two young girls seated on a couch, interacting with four cats and a large black dog. The room has a casual and relaxed atmosphere, with a guitar case on the floor and a speaker or "
+  },
+  {
+   "id": "IMG_75084",
+   "score": 0.5212,
+   "caption": "three Polaroid-style photos. In the first photo, there's a cat sitting on a toilet. The second photo depicts a man sitting on a couch with a cat on his lap. The third photo shows a"
+  }
+ ],
+ "cars parked along a city street": [
+  {
+   "id": "IMG_157246",
+   "score": 0.7237,
+   "caption": "two cars parked along a street or in a parking area, with one car positioned towards the left side and the other car towards the right side."
+  },
+  {
+   "id": "IMG_194159",
+   "score": 0.583,
+   "caption": "a city street with multiple parked cars. There are four cars aligned on the left side of the image, with another car parked closer to the center. On the far right, there are two ca"
+  },
+  {
+   "id": "IMG_111167",
+   "score": 0.5751,
+   "caption": "two license plates, one on a car on the right side of the street and the other on a car in the parking area near the bottom of the image."
+  },
+  {
+   "id": "IMG_186615",
+   "score": 0.5748,
+   "caption": "a city street with a vintage car parked next to a parking meter, surrounded by 15 other cars. A bus is partially visible on the far right, and there are two parking meters in total"
+  },
+  {
+   "id": "IMG_194157",
+   "score": 0.5728,
+   "caption": "a busy city street with numerous parked cars, including one with distinct taillights near the top right. There is also a parking meter visible in the center of the image."
+  },
+  {
+   "id": "IMG_41237",
+   "score": 0.5641,
+   "caption": "an urban or city setting with three cars parked on the street, a parking meter, and buildings in the background. The parking meter is located to the right of the first car, and the"
+  }
+ ],
+ "a woman holding a tennis racket": [
+  {
+   "id": "IMG_217111",
+   "score": 0.7352,
+   "caption": "a woman holding a tennis racket, with two tennis balls present in the scene. One tennis ball is located near the right side, close to the woman's racket, while the other is on the "
+  },
+  {
+   "id": "IMG_142322",
+   "score": 0.709,
+   "caption": "a young woman holding a tennis racket on her right side, wearing tennis shoes, and a white skirt."
+  },
+  {
+   "id": "IMG_143032",
+   "score": 0.709,
+   "caption": "a tennis player holding a racket and a tennis ball is in motion near the racket."
+  },
+  {
+   "id": "IMG_209915",
+   "score": 0.7068,
+   "caption": "a woman wearing a tennis dress, holding a tennis racket, and wearing a visor on her head."
+  },
+  {
+   "id": "IMG_176705",
+   "score": 0.6836,
+   "caption": "a tennis player holding a tennis racket with a tennis ball positioned slightly above and to the right of it."
+  },
+  {
+   "id": "IMG_127729",
+   "score": 0.6822,
+   "caption": "a tennis player holding a tennis racket, with a tennis ball hovering slightly above and to the right of the racket."
+  }
+ ],
+ "a plate of food with vegetables": [
+  {
+   "id": "IMG_35431",
+   "score": 0.4731,
+   "caption": "a plate of food consisting of vegetables, rice, and a filled pastry or bread. The vegetables include onions, and the dish is garnished with almonds. The plate is accompanied by a f"
+  },
+  {
+   "id": "IMG_95114",
+   "score": 0.4386,
+   "caption": "a plate of food with a variety of vegetables, including 13 carrots, whole mushrooms, and broccoli florets. The vegetables appear to be cooked, possibly steamed or boiled, and are s"
+  },
+  {
+   "id": "IMG_135996",
+   "score": 0.4303,
+   "caption": "a white plate filled with various vegetables, including multiple pieces of broccoli, onions, and carrot slices. The vegetables are distributed across the plate, with some near the "
+  },
+  {
+   "id": "IMG_195958",
+   "score": 0.4251,
+   "caption": "a vibrant plate of food with diced tomatoes scattered around, broccoli florets of various sizes, and slices of ham mixed among the vegetables. The arrangement of food is rich and d"
+  },
+  {
+   "id": "IMG_134815",
+   "score": 0.4229,
+   "caption": "a man wearing spectacles, a woman with a multicolored blanket draped over her, and various food items such as a plate filled with food, another plate with more food, and multiple p"
+  },
+  {
+   "id": "IMG_144988",
+   "score": 0.4132,
+   "caption": "a plate full of food with eight mushrooms scattered around, a fork and a knife on either side of the plate, and a laptop computer in use above the plate and slightly to the left."
+  }
+ ],
+ "a child playing with a toy": [
+  {
+   "id": "IMG_212281",
+   "score": 0.6307,
+   "caption": "a large bathtub with four toys positioned in different areas. One toy is near the top, close to a child, another is at the bottom near another child, a third toy is on the left sid"
+  },
+  {
+   "id": "IMG_74980",
+   "score": 0.6095,
+   "caption": "a child playing with a toy, possibly a phone, while surrounded by various toys scattered around the room. The child has a playful and mischievous expression on their face. There is"
+  },
+  {
+   "id": "IMG_182131",
+   "score": 0.5934,
+   "caption": "a child wearing a baseball cap and two sandals, with one slightly ahead of the other. The child is positioned above a toy on the floor, to the right of the child. Additionally, the"
+  },
+  {
+   "id": "IMG_127052",
+   "score": 0.5826,
+   "caption": "a child holding a remote control, with three toys in the frame. One toy is located towards the upper left, another is larger and positioned to the right of the child, and a smaller"
+  },
+  {
+   "id": "IMG_100763",
+   "score": 0.5815,
+   "caption": "a child playing outdoors with a kite and a toy, surrounded by background structures such as buildings or houses, and a grassy field. The child is holding the kite up in the air and"
+  },
+  {
+   "id": "IMG_139607",
+   "score": 0.5668,
+   "caption": "a child playing with toys in a water-filled area. There is a toy floating in the water on the right side of the image. In front of the child, there is another toy, which is positio"
+  }
+ ]
+}

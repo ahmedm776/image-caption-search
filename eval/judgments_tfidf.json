@@ -1,0 +1,13 @@
+{
+ "_judge": "single author-built judgment (same person who built the system), top-6 per query judged from caption text on 2026-11-04; re-checkable - ids and captions in judged_pool.json. 'Relevant' = caption content matches the query's core subject; gender/attribute claims required explicit mention.",
+ "a dog running on the beach": {"IMG_165153":1,"IMG_154533":1,"IMG_214460":1,"IMG_37974":1,"IMG_106582":1,"IMG_217596":1},
+ "a busy kitchen with people cooking": {"IMG_99344":1,"IMG_168698":0,"IMG_13912":1,"IMG_139438":0,"IMG_4025":1,"IMG_24377":1},
+ "a man riding a bike down the street": {"IMG_168829":1,"IMG_23270":0,"IMG_156138":0,"IMG_213280":0,"IMG_9398":1,"IMG_38655":1},
+ "a bathroom with a modern sink": {"IMG_125835":1,"IMG_78212":1,"IMG_172105":1,"IMG_35712":1,"IMG_129383":1,"IMG_206055":1},
+ "a group of people eating at a restaurant": {"IMG_10622":1,"IMG_2401":1,"IMG_85792":1,"IMG_82283":0,"IMG_5015":0,"IMG_2968":1},
+ "a cat sitting on a couch": {"IMG_3163":1,"IMG_74141":0,"IMG_49764":1,"IMG_177183":1,"IMG_85608":1,"IMG_75084":1},
+ "cars parked along a city street": {"IMG_157246":1,"IMG_194159":1,"IMG_111167":0,"IMG_186615":1,"IMG_194157":1,"IMG_41237":1},
+ "a woman holding a tennis racket": {"IMG_217111":1,"IMG_142322":1,"IMG_143032":0,"IMG_209915":1,"IMG_176705":0,"IMG_127729":0},
+ "a plate of food with vegetables": {"IMG_35431":1,"IMG_95114":1,"IMG_135996":1,"IMG_195958":1,"IMG_134815":0,"IMG_144988":1},
+ "a child playing with a toy": {"IMG_212281":1,"IMG_74980":1,"IMG_182131":0,"IMG_127052":1,"IMG_100763":1,"IMG_139607":1}
+}

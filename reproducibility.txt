@@ -1,0 +1,1 @@
+Whole-corpus final-source reruns identical acceptance, matrix dimensions, query IDs and scores, excluding timings.11unit tests and browser UI search/empty/expansion checks passed. No image URL requested. UI fixture output is separate and explicitly synthetic.

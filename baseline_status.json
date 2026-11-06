@@ -1,0 +1,29 @@
+{
+  "status": "completed scoped original core",
+  "scope": "Cells listed only, existing current v2data path; /content/image_search.csv replaced by relative path. GradioGUI/download/pickle omitted.",
+  "completed_cells": [
+    1,
+    4,
+    5,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    16,
+    17,
+    18,
+    19,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    33
+  ],
+  "rows": 217868,
+  "vocabulary": 21277,
+  "elapsed_seconds": 88.76159644126892
+}
